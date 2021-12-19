@@ -1,0 +1,17 @@
+label {
+    margin-bottom: 15px;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.form {
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
